@@ -1,1 +1,8 @@
 @import "tailwindcss";
+
+/* Reset básico para asegurar que Tailwind funcione correctamente */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
